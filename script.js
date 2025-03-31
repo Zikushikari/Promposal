@@ -11,7 +11,7 @@ revealButton.addEventListener("click", function() {
 });
 
 yesButton.addEventListener("click", function() {
-    alert("For real!?? OMG Let's grab a drink sometimes! ^^❤");
+    alert("For real!?? OMG I can't wait to go to the prom with you! ^^❤");
     stopConfetti();
 });
 
